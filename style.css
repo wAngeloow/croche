@@ -1,0 +1,59 @@
+.bg-brown {
+    background-color: #7D4641;
+}
+
+.meu-hover:hover {
+    background-color: white;
+    color: #7D4641 !important;
+}
+
+.meu-produto {
+    height: 400px;
+    width: 250px;
+}
+
+.meu-produto-2 {
+    height: 250px;
+    width: 250px;
+}
+
+.meu-subproduto {
+    height: 75px;
+    width: 250px;
+    background-color: #7D4641;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.quadrado-icon {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: white;
+}
+
+.bi {
+    font-size: 35px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.accordion{
+    --bs-accordion-btn-bg: #7D4641;
+    --bs-accordion-active-bg: #7D4641;
+    --bs-accordion-btn-color: #fff;
+    --bs-accordion-active-color: #fff;
+}
+
+/*Remove a sombra do accordion*/
+.accordion-button:focus {
+    box-shadow: none;
+    outline: none;
+}
