@@ -10,34 +10,34 @@ function loadCategoryProducts() {
     const products = {
         "cozinha": [
             {
-                "nome": "Kit de Panelas",
+                "nome": "Kit cozinha",
                 "comprimento": "80cm",
                 "largura": "60cm",
-                "quantidade": 3,
+                "quantidade": 4,
                 "linha": "2",
-                "preco": "R$80,00",
+                "preco": "R$160,00",
                 "unicon": "conjunto",
-                "foto": "img/img-1.jpg"
+                "foto": "img/cozinha.webp"
             },
             {
-                "nome": "Liquidificador",
+                "nome": "Pote",
                 "comprimento": "80cm",
                 "largura": "50cm",
-                "quantidade": 1,
+                "quantidade": 4,
                 "linha": "1",
-                "preco": "R$120,00",
-                "unicon": "unidade",
-                "foto": "img/img-2.webp"
+                "preco": "R$80,00",
+                "unicon": "conjunto",
+                "foto": "img/img-2.jpg"
             },
             {
-                "nome": "Jogo de Talheres",
+                "nome": "Jogo de Tapetes",
                 "comprimento": "50cm",
                 "largura": "50cm",
-                "quantidade": 5,
+                "quantidade": 4,
                 "linha": "4",
-                "preco": "R$40,00",
+                "preco": "R$150,00",
                 "unicon": "conjunto",
-                "foto": "img/img-3.jpg"
+                "foto": "img/img-3.webp"
             },
             {
                 "nome": "Conjunto de Pratos",
@@ -45,21 +45,21 @@ function loadCategoryProducts() {
                 "largura": "60cm",
                 "quantidade": 6,
                 "linha": "2",
-                "preco": "R$80,00",
+                "preco": "R$180,00",
                 "unicon": "conjunto",
                 "foto": "img/img-4.jpg"
             }
         ],
         "banheiro": [
             {
-                "nome": "Toalha de Banho",
-                "comprimento": "1,50m",
+                "nome": "Kit banheiro",
+                "comprimento": "70cm",
                 "largura": "80cm",
-                "quantidade": 1,
+                "quantidade": 3,
                 "linha": "1",
-                "preco": "R$30,00",
-                "unicon": "unidade",
-                "foto": "img/img-5.jpg"
+                "preco": "R$180,00",
+                "unicon": "conjunto",
+                "foto": "img/banheiro.jpeg"
             },
             {
                 "nome": "Kit Saboneteira",
@@ -67,7 +67,7 @@ function loadCategoryProducts() {
                 "largura": "20cm",
                 "quantidade": 4,
                 "linha": "2",
-                "preco": "R$35,00",
+                "preco": "R$50,00",
                 "unicon": "conjunto",
                 "foto": "img/img-6.jpg"
             },
@@ -77,7 +77,7 @@ function loadCategoryProducts() {
                 "largura": "90cm",
                 "quantidade": 1,
                 "linha": "3",
-                "preco": "R$70,00",
+                "preco": "R$190,00",
                 "unicon": "unidade",
                 "foto": "img/img-7.jpg"
             },
@@ -87,21 +87,21 @@ function loadCategoryProducts() {
                 "largura": "1,20m",
                 "quantidade": 1,
                 "linha": "4",
-                "preco": "R$140,00",
+                "preco": "R$350,00",
                 "unicon": "unidade",
                 "foto": "img/img-8.webp"
             }
         ],
         "sala": [
             {
-                "nome": "Sofá",
+                "nome": "Tapete",
                 "comprimento": "2,00m",
                 "largura": "80cm",
-                "quantidade": 6,
+                "quantidade": 1,
                 "linha": "1",
-                "preco": "R$500,00",
-                "unicon": "conjunto",
-                "foto": "img/img-9.jpg"
+                "preco": "R$250,00",
+                "unicon": "unidade",
+                "foto": "img/sala.jpeg"
             },
             {
                 "nome": "Mesa de Centro",
@@ -109,18 +109,18 @@ function loadCategoryProducts() {
                 "largura": "60cm",
                 "quantidade": 1,
                 "linha": "2",
-                "preco": "R$150,00",
+                "preco": "R$180,00",
                 "unicon": "unidade",
                 "foto": "img/img-10.jpg"
             },
             {
-                "nome": "Estante",
-                "comprimento": "60cm",
-                "largura": "60cm",
-                "quantidade": 3,
+                "nome": "Tapete",
+                "comprimento": "1,30m",
+                "largura": "80cm",
+                "quantidade": 1,
                 "linha": "3",
-                "preco": "R$100,00",
-                "unicon": "conjunto",
+                "preco": "R$150,00",
+                "unicon": "unidade",
                 "foto": "img/img-11.jpg"
             },
             {
@@ -129,7 +129,7 @@ function loadCategoryProducts() {
                 "largura": "50cm",
                 "quantidade": 6,
                 "linha": "4",
-                "preco": "R$150,00",
+                "preco": "R$400,00",
                 "unicon": "conjunto",
                 "foto": "img/img-12.jpg"
             }
