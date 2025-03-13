@@ -20,7 +20,8 @@
 
 <div align="center">
   <h2>Demonstração</h2>
-  <img src="https://github.com/user-attachments/assets/90e6bdce-36a3-495f-b29b-ea33ffe29519" alt="Vídeo de demonstração da página">
+  <img src="https://github.com/user-attachments/assets/326d7b87-d53e-49ba-9211-b6d89cd64aa6" alt="Vídeo de demonstração da página">
+
 </div>
 
 <div align="center">
